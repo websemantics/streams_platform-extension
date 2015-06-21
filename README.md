@@ -14,6 +14,6 @@ Here's a list of all the extended core classes/interfaces:
 * Anomaly\Streams\Platform\Entry\EntryModel
 * Anomaly\Streams\Platform\Assignment\AssignmentModel
 
-Feel free to add your own function etc as your find fit, 
+Feel free to add your own functions to these classes etc, as your see fit, 
 
 Enjoy
