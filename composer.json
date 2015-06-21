@@ -1,0 +1,36 @@
+{
+    "name": "websemantics/streams_platform-extension",
+    "type": "streams-addon",
+    "version": "1.0.0",
+    "description": "This is an extension to core classes in the Streams Platform",
+    "keywords": [
+        "ibuild",
+        "streams",
+        "pyrocms",
+        "laravel"
+    ],
+    "homepage": "http://websemantics.ca",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Web Semantics, Inc.",
+            "email": "info@websemantics.ca",
+            "homepage": "http://websemantics.ca",
+            "role": "Owner"
+        }
+    ],
+    "support": {
+        "email": "info@websemantics.ca"
+    },
+    "autoload": {
+        "psr-4": {
+            "Websemantics\\StreamsPlatformExtension\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
